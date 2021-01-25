@@ -1,8 +1,8 @@
  **Growth-Mindset**
 
-## Growth Mindset is a way to describe the underlying beliefs people have about learning and intelligence. A growth mindset can be developed through practice and effort, as opposed to a fixed mindset where intelligence is a constant trait that does not change with effort
+## Growth Mindset is a way to describe the underlying beliefs people have about learning and intelligence. 
 
-Maintaining a growth mindset by:
+**Maintaining a growth mindset by:**
 
 1.Challenges
 
