@@ -20,9 +20,5 @@
 
 
 
-
-
-
-
-#### For more details about groth midnest please visit the website below:
+##### For more details about groth midnest please visit the website below:
 [Growth-midnest](https://www.excelsior.edu/article/growth-mindset/)
