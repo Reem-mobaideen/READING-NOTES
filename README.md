@@ -12,7 +12,7 @@
 
 4.Criticism
 
-![Growth-midnest](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.excelsior.edu%2Farticle%2Fgrowth-mindset%2F&psig=AOvVaw0RzBpYiojs3kwT5jJ21vbN&ust=1611656443728000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDDlanutu4CFQAAAAAdAAAAABAO)
+![Growth-midnest](Growth-Mindset-e1565799493145)
 
 
 
