@@ -4,7 +4,6 @@
 
 ##### Maintaining a growth mindset by:
 - 
-
 1.Challenges
 
 2.Obstacles
