@@ -1,1 +1,1 @@
-# coding
+growth-mindset
