@@ -5,4 +5,5 @@
 syntax | description |
 ------- | ---------------- | 
 lab01a  | https://github.com/Reem-mobaideen/reading-notes| 
-lab02b  |        |  
+lab02b  | https://reem-mobaideen.github.io/reading-notes/  |  
+read03a |read03a.md
