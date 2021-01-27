@@ -4,6 +4,7 @@
 
 syntax | description |
 ------- | ---------------- | 
-lab01a  | https://github.com/Reem-mobaideen/reading-notes| 
-lab02b  | https://reem-mobaideen.github.io/reading-notes/  |  
+lab01a  | [lab01a](lab01a)| 
+lab02b  | [lab02b](lab02b)|  
 read03a |read03a.md
+read04  | [read04](read04)
