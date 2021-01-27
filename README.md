@@ -6,5 +6,5 @@ syntax | description |
 ------- | ---------------- | 
 lab01a  | [lab01a](lab01a)| 
 lab02b  | [lab02b](lab02b)|  
-read03a |read03a.md
+read03a | [read03a](read03a)
 read04  | [read04](read04)
