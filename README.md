@@ -9,3 +9,4 @@ lab02b  | [lab02b](lab02b)|
 read03a | [read03a](read03a)
 read04  | [read04](read04)
 read02a | [read02a](read02a)
+read05  | [read05](read05)
