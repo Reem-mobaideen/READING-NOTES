@@ -1,7 +1,9 @@
- # Javascript Operators
+ # <h1> Javascript Operators </h1>
 
+ 
+JavaScript includes operators as in other languages. An operator performs some operation on single or multiple operands (data value) and produces a result. For example 1 + 2, where + sign is an operator and 1 is left operand and 2 is right operand. + operator adds two numeric values and produces a result which is 3 in this case.
 
- ## Comparison Operators
+ ##  <h2> Comparison Operators </h2>
 
 Comparison operators can be used in conditional statements to compare values and take action depending on the result:
 
