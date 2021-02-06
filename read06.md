@@ -6,7 +6,7 @@ CSS Styles:
 3.	Specific : include specific ways to style certain elements such as lists, tables, and forms
 
 
- ## Example of web page styling using CSS
+ **Example of web page styling using CSS** 
 
 ![simple css declaration](https://study.com/cimages/multimages/16/external-css-1.png)
 
