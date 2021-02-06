@@ -1,6 +1,6 @@
  **Introduction**
 
-### "I am Reem Mubaydeen, 33 years old, i have a master degree of computer science"
+### "I am Reem Mubaydeen, 33 years old, i have a master degree of computer science. This repo contains the required reading notes at the first level (code 201)"
 
 syntax | description |
 ------- | ---------------- | 
