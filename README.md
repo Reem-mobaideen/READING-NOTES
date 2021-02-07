@@ -1,15 +1,18 @@
- **Introduction**
 
-### "I am Reem Mubaydeen, 33 years old, i have a master degree of computer science. This repo contains the required reading notes at the first level (code 201)"
-
-syntax | description |
-------- | ---------------- | 
-lab01a  | [lab01a](102/lab01a)| 
-lab02b  | [lab02b](lab02b)|  
-read03a | [read03a](read03a)
-read04  | [read04](read04)
-read02a | [read02a](read02a)
-read05  | [read05](read05)
-lab05   | [lab05](lab05)
-read06  | [read06](read06)
-class-01| [class-01](class-01)
+Name    | Link                |
+------- | ----------------    | 
+read1   | [read1](read1.md)   | 
+read2   | [read2](read2.md)   |  
+read3   | [read3](read3.md)   |
+read4   | [read4](read4.md)   |
+read5   | [read5](read5.md)   |
+read6   | [read6](read6.md)   |
+read7   | [read7](read7.md)   |
+read8   | [read8](read8.md)   |
+read9   | [read9](read9.md)   |
+read10  | [read10](read10.md) |
+read11  | [read11](read11.md) |
+read12  | [read12](read12.md) |
+read13  | [read13](read13.md) |
+read14  | [read14](read14.md) |
+read15  | [read15](read15.md) |
