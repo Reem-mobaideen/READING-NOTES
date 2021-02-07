@@ -1,5 +1,4 @@
-# HTML and CSS
-# How to create a web page
+# how to create a web page
 The first step to creating web pages is to study HTML and CSS then how to combine them to get a web page. Then when we turn to writing and studying the code we must understand the methods people use to get to the web page.
 First of all to create a web page, you will think about the design of  web page components. Clear structure is important to improve document accessibility such as add headings to a document  and verified using the navigation pane then the main content and so on.
 
