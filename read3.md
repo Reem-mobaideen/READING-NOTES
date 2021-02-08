@@ -4,7 +4,7 @@ Html provide different ways to list the information :
 •	Ordered list  <ol> : list a related items in a specific order
 •	Definition list <dl>: display a pairs such as terms and definition
 
-![ordered list in HTML](https://aitkotw.files.wordpress.com/2015/01/imgp6.png?w=549)
+![ordered list in HTML](https://i.ytimg.com/vi/NgKxebexbVc/maxresdefault.jpg)
 
 # Boxes in CSS
 The CSS box defined the rectangular boxes that are created for each elements in HTML code.
