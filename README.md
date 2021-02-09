@@ -1,3 +1,5 @@
+# about me
+I am Reem Al-Mobaideen, 33 years old, I havea master's degree in computer science from the University of Jordan. I worked  four years as a computer teacher and I hope to be a professional software developer                       
 
 Name    | Link                    |
 ------- | --------------------    | 
