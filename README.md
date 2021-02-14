@@ -18,3 +18,8 @@ read12  | [read12](201/read12.md) |
 read13  | [read13](201/read13.md) |
 read14  | [read14](201/read14.md) |
 read15  | [read15](201/read15.md) |
+
+
+
+### The link for read6: 
+[read6 link](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming)
