@@ -23,7 +23,7 @@ it designs stretch and contract when the user increases or decreases the size of
 
 •	Page expand to fill whole window   
 •	The design is tolerant 
-   
+
 ### Disadvantages of liquid layout      
 •	 cant control width of page sections
 •	  if the window is wide, the line of text long
@@ -32,3 +32,5 @@ it designs stretch and contract when the user increases or decreases the size of
 
 ## Grid Layout
 the placement or arrangement of visual elements i.e: how they are organized on a page.
+
+![Grid Layout](https://miro.medium.com/max/700/1*XCZZZmhQN4rHLw2dW14BZQ.png)
