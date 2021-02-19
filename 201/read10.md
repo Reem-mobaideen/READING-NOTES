@@ -1,3 +1,5 @@
+
+
 # Error Handling in Javascript
 If a JavaScript code generates an error, the error handling is to catches these errors and take appropriate action. The order in which statements are executed the most helpful way in error catching. Every statement in a script be in an execution contexts (in global context or function context or eval context). execution context that holds information about the environment within which the current code is being executed. Each execution context has its variables
 
@@ -14,3 +16,11 @@ If a JavaScript statement creates an error, then it throws an exception. At that
 Debugging is about deduction: eliminating potential causes of an error. Console of javascript tell us where there is an error in script and it is also displays the line where the problem. You can open the console window from any web browser windows (in chrome, firefox , etc)
 
 ![error eample from console](https://miro.medium.com/max/700/0*-IS8VjbpMT7I8p0D.png)
+
+### Key words:
+Error: is an object, which is later thrown to halt the program.
+
+Exception: an error object becomes an exception only when it's thrown.
+
+Error objects:  object help you find where is the error using
+browsers tools to help you read them. 
