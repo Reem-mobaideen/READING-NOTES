@@ -23,3 +23,7 @@ read15  | [read15](201/read15.md) |
 
 ### The link for read6: 
 [read6 link](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming)
+
+
+### The link for read13: 
+[read13 link](https://github.com/Reem-mobaideen/reading-notes/commit/72878fdacda396d172bf323c4b53bf776cb279f1)
